@@ -1,0 +1,43 @@
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 768px){
+    .header{
+        width: 400px;
+    }
+    html{
+        width: 360px;
+    }
+    .container{
+        width: 360px;
+        margin-right: 1550px;
+    }
+    .main{
+        width: 360px;
+    }
+    body{
+        width: 360px;
+    }
+
+    .nav-list{
+        display: none;
+    }
+    #SKILLS{
+        width: 360px;
+    }
+    .title-main1{
+        width: 270px;
+    }
+    .ul-skills{
+        flex-wrap: wrap;
+    }
+    #PROJECTS{
+        width: 360px;
+    }
+    .title-main4{
+        width: 360px;
+    }
+    .footer{
+        width: 360px;
+        margin-top: 2600px;
+    }
+    }
+        /**/
